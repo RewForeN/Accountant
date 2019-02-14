@@ -9,4 +9,5 @@ Display history in a chart of account balance over time.
 
 # What I learned
 How to work with files, data and storage.  
+Use regular expressions to read data from files.  
 Implementation of modules and classes.
