@@ -1,5 +1,5 @@
 # Accountant
-A simulation of a bank
+A simulation of a bank.\n
 You can create multiple accounts and manage them
 You can also see the history of an account
 
